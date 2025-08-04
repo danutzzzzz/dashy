@@ -62,6 +62,9 @@ sections:
       - title: Airsonic
         icon: hl-airsonic
         url: https://airsonic.github.io/docs/install/docker/
+      - title: Autobrr
+        icon: favicon
+        url: http://10.0.9.41:7474
       - title: Plex
         icon: hl-plex
         url: http://10.0.9.43:32400/web/
@@ -73,6 +76,9 @@ sections:
       - title: SABnzbd
         icon: hl-sabnzbd
         url: http://10.0.9.41:8088/
+      - title: NZBDav
+        icon: favicon
+        url: http://10.0.9.41:3000/
       - title: qBittorrent
         icon: hl-qbittorrent
         url: http://10.0.9.41:8087/
@@ -112,6 +118,15 @@ sections:
       - title: Readarr
         icon: hl-readarr
         url: http://10.0.9.41:8787
+      - title: AudioBookShelf
+        icon: favicon
+        url: http://10.0.9.41:13378
+      - title: AudioBookRequest
+        icon: favicon
+        url: http://10.0.9.41:13379
+      - title: calibre-web-automated
+        icon: favicon
+        url: http://10.0.9.41:8083
       - title: Whisparr
         icon: hl-whisparr
         url: http://10.0.9.41:6969/
