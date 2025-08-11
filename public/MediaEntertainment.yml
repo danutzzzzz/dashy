@@ -103,12 +103,18 @@ sections:
       - title: Radarr
         icon: hl-radarr
         url: http://10.0.9.41:7878
+      - title: Radarr - Streams
+        icon: hl-radarr
+        url: http://10.0.9.41:7879
       - title: Sonarr
         icon: hl-sonarr
         url: http://10.0.9.41:8989
       - title: Sonarr - Anime
         icon: hl-sonarr
         url: http://10.0.9.41:8990
+      - title: Sonarr - Streams
+        icon: hl-sonarr
+        url: http://10.0.9.41:8991
       - title: Bazarr
         icon: hl-bazarr
         url: http://10.0.9.41:6767
