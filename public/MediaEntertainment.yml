@@ -170,6 +170,9 @@ sections:
       - title: qBittorrent-ReSeedarr
         icon: hl-qbittorrent
         url: http://10.0.9.41:8085/
+      - title: AutoPulse
+        icon: hl-autopulse
+        url: http://10.0.9.41:2880/
   - name: Online Streamers
     icon: fas fa-house-signal
     displayData:
