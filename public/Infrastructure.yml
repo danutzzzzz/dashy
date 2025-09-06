@@ -41,11 +41,11 @@ sections:
       - title: Netbox Dashboard
         description: Data Centre Infrastructure Management Dashboard
         icon: hl-netbox
-        url: http://10.0.9.40:8010
+        url: http://10.0.9.41:8010
       - title: Netbox Admin
         description: Data Centre Infrastructure Management - Admin Portal
         icon: hl-netbox
-        url: http://10.0.9.40:8010/admin/
+        url: http://10.0.9.41:8010/admin/
   - name: Power
     icon: ''
     displayData:
@@ -70,7 +70,7 @@ sections:
       - title: SmokePing
         description: Network latency monitoring
         icon: hl-smokeping
-        url: http://10.0.9.40:82/smokeping/?target=ExternalNodes
+        url: http://10.0.9.41:82/smokeping/?target=ExternalNodes
         id: 0_1840_smokeping
       - title: NetData (Unifi)
         description: Real-time system resource usage
@@ -80,11 +80,11 @@ sections:
       - title: Grafana (Unifi)
         description: Data visualised on dashboards
         icon: hl-grafana
-        url: http://10.0.9.40:3000/d/4Yo8IZ-Wk/unifi-poller-usg-insights-prometheus?orgId=1&refresh=30s
+        url: http://10.0.9.41:3000/d/4Yo8IZ-Wk/unifi-poller-usg-insights-prometheus?orgId=1&refresh=30s
       - title: LibreSpeed
         description: Local network speed and latency test
         icon: hl-librespeed
-        url: http://10.0.9.40:85/
+        url: http://10.0.9.41:85/
       - title: CloudFlare Speed Test
         description: CloudFlare network speed and latency test
         icon: favicon
@@ -140,21 +140,21 @@ sections:
         description: Data visualised on dashboards
         icon: hl-grafana
         id: 3_1739_grafana
-        url: http://10.0.9.40:3000/d/rYdddlPWk/node-exporter-full?orgId=1&refresh=30s
+        url: http://10.0.9.41:3000/d/rYdddlPWk/node-exporter-full?orgId=1&refresh=30s
       - title: Prometheus
         description: System Statistics Aggregation with PromQL
         icon: hl-prometheus
         id: 4_1739_prometheus
-        url:  http://10.0.9.40:9090
-      - title: cAdvisor
-        description: Container monitoring
-        icon: hl-cadvisor
-        url: http://10.0.9.40:8080
-        id: 0_1739_cadvisor
+        url:  http://10.0.9.41:9090
       - title: cAdvisor
         description: Container monitoring
         icon: hl-cadvisor
         url: http://10.0.9.41:8080
+        id: 0_1739_cadvisor
+      - title: cAdvisor
+        description: Container monitoring
+        icon: hl-cadvisor
+        url: http://10.0.9.42:8080
         id: 0_1739_cadvisor
       - title: Dozzle
         description: Docker container web log viewer
@@ -221,7 +221,7 @@ sections:
         id: 1_1064_opnsense
       - title: Pi-Alert
         icon: hl-pialert
-        url: http://10.0.9.40:20211/
+        url: http://10.0.9.41:20211/
         id: 1_1064_pialert
       - title: MalTrail
         description: Malicious traffic detection system
@@ -244,11 +244,11 @@ sections:
         id: 6_1064_pialert
       - title: piAlert
         icon: hl-pi-alert
-        url: http://10.0.9.40:20211/pialert/
+        url: http://10.0.9.41:20211/pialert/
         id: 8_1064_pialert
       - title: DDNS Updater
         icon: hl-ddns-updater
-        url: http://10.0.9.40:8001/
+        url: http://10.0.9.41:8001/
         id: 9_1064_ddnsupdater
       - title: Modem
         icon: hl-huawei
@@ -358,11 +358,11 @@ sections:
       - title: Docker 01 - Glances
         description: Simple resource usage
         icon: hl-glances
-        url: http://10.0.9.40:61208/
+        url: http://10.0.9.41:61208/
       - title: Docker 02 - Glances
         description: Docker 02
         icon: hl-glances
-        url: http://10.0.9.41:61208/
+        url: http://10.0.9.42:61208/
       - title: Docker 03 - Glances
         description: Docker 03
         icon: hl-glances
@@ -384,12 +384,12 @@ sections:
       - title: Docker 01
         description: Portainer
         icon: si-portainer
-        url: http://10.0.9.40:9000/
+        url: http://10.0.9.41:9000/
         id: 2_1984_docker
       - title: Docker 02
         description: Portainer
         icon: si-portainer
-        url: http://10.0.9.41:9000/
+        url: http://10.0.9.42:9000/
         id: 3_1984_docker
       - title: Docker 03
         description: Portainer
@@ -407,10 +407,10 @@ sections:
     items:
       - title: Docker 01
         icon: hl-netdata
-        url: http://10.0.9.40:19999/
+        url: http://10.0.9.41:19999/
       - title: Docker 02
         icon: hl-netdata
-        url: http://10.0.9.41:19999/
+        url: http://10.0.9.42:19999/
       - title: piHole 01
         icon: hl-netdata
         url: http://10.0.9.100:19999/
@@ -437,7 +437,7 @@ sections:
       - title: Gitea
         description: Gitea
         icon: hl-gitea
-        url: http://10.0.9.40:3001/
+        url: http://10.0.9.41:3001/
   - name: Hosting
     icon: 
     displayData:
