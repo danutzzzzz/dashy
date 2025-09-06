@@ -64,7 +64,7 @@ sections:
         url: https://airsonic.github.io/docs/install/docker/
       - title: Autobrr
         icon: favicon
-        url: http://10.0.9.42:7474
+        url: http://10.0.9.41:7474
       - title: Plex
         icon: hl-plex
         url: http://10.0.9.43:32400/web/
@@ -75,25 +75,25 @@ sections:
         icon: hl-plexrequests
       - title: SABnzbd
         icon: hl-sabnzbd
-        url: http://10.0.9.42:8088/
+        url: http://10.0.9.41:8088/
       - title: NZBDav
         icon: favicon
-        url: http://10.0.9.42:3000/
+        url: http://10.0.9.41:3000/
       - title: qBittorrent
         icon: hl-qbittorrent
-        url: http://10.0.9.42:8087/
+        url: http://10.0.9.41:8087/
       - title: Seedr
         icon: favicon
         url: https://www.seedr.cc/
       - title: NZBHydra
         icon: hl-nzbhydra
-        url: http://10.0.9.42:5076/
+        url: http://10.0.9.41:5076/
       - title: LazyLibrarian
         icon: hl-lazylibrarian
         url: http://10.0.8.10:5299/books
       - title: Tautulli
         icon: hl-tautulli
-        url: http://10.0.9.42:8181/home
+        url: http://10.0.9.41:8181/home
       - title: MovieBox
         icon: favicon
         url: http://themoviebox.net/
@@ -102,58 +102,58 @@ sections:
         url: https://www.freeview.co.uk/tv-guide
       - title: Radarr
         icon: hl-radarr
-        url: http://10.0.9.42:7878
+        url: http://10.0.9.41:7878
       - title: Radarr - Streams
         icon: hl-radarr
-        url: http://10.0.9.42:7879
+        url: http://10.0.9.41:7879
       - title: Sonarr
         icon: hl-sonarr
-        url: http://10.0.9.42:8989
+        url: http://10.0.9.41:8989
       - title: Sonarr - Anime
         icon: hl-sonarr
-        url: http://10.0.9.42:8990
+        url: http://10.0.9.41:8990
       - title: Sonarr - Streams
         icon: hl-sonarr
-        url: http://10.0.9.42:8991
+        url: http://10.0.9.41:8991
       - title: Bazarr
         icon: hl-bazarr
-        url: http://10.0.9.42:6767
+        url: http://10.0.9.41:6767
       - title: Lidarr
         icon: hl-lidarr
-        url: http://10.0.9.42:8686
+        url: http://10.0.9.41:8686
       - title: Readarr
         icon: hl-readarr
-        url: http://10.0.9.42:8787
+        url: http://10.0.9.41:8787
       - title: AudioBookShelf
         icon: favicon
-        url: http://10.0.9.42:13378
+        url: http://10.0.9.41:13378
       - title: AudioBookRequest
         icon: favicon
-        url: http://10.0.9.42:13379
+        url: http://10.0.9.41:13379
       - title: calibre-web-automated
         icon: favicon
-        url: http://10.0.9.42:8083
+        url: http://10.0.9.41:8083
       - title: Whisparr
         icon: hl-whisparr
-        url: http://10.0.9.42:6969/
+        url: http://10.0.9.41:6969/
       - title: Whisparrv3
         icon: hl-whisparr
-        url: http://10.0.9.42:6968/
+        url: http://10.0.9.41:6968/
       - title: Huntarr
         icon: favicon
-        url: http://10.0.9.42:9705/
+        url: http://10.0.9.41:9705/
       - title: Overseerr
         icon: hl-overseerr
-        url: http://10.0.9.42:5055/
+        url: http://10.0.9.41:5055/
       - title: PlexRipper
         icon: hl-plexripper
-        url: http://10.0.9.42:7000/
+        url: http://10.0.9.41:7000/
       - title: unmanic
         icon: favicon
-        url: http://10.0.9.42:8888
+        url: http://10.0.9.41:8888
       - title: WatchState
         icon: favicon
-        url: http://10.0.9.42:8080/
+        url: http://10.0.9.41:8080/
       - title: Trakt
         icon: hl-trakt
         url: >-
@@ -169,10 +169,10 @@ sections:
         url: https://www.flickchart.com/Charts.aspx?decade=1990&perpage=100
       - title: qBittorrent-ReSeedarr
         icon: hl-qbittorrent
-        url: http://10.0.9.42:8085/
+        url: http://10.0.9.41:8085/
       - title: AutoPulse
         icon: hl-autopulse
-        url: http://10.0.9.42:2880/
+        url: http://10.0.9.41:2880/
   - name: Online Streamers
     icon: fas fa-house-signal
     displayData:
@@ -199,10 +199,10 @@ sections:
     items:
       - title: Prowlarr
         icon: hl-prowlarr
-        url: http://10.0.9.42:9696/search
+        url: http://10.0.9.41:9696/search
       - title: FlareSolverr
         icon: hl-flaresolverr
-        url: http://10.0.9.42:8191/
+        url: http://10.0.9.41:8191/
   - name: Indexers
     icon: fas fa-house-signal
     displayData:
@@ -468,7 +468,7 @@ sections:
         icon: hl-bitwarden
       - title: Readarr
         description: E-reader app
-        url: http://10.0.9.42:8787
+        url: http://10.0.9.41:8787
         icon: hl-readarr
       - title: Wallabag
         description: Bookmark Manager
