@@ -79,6 +79,9 @@ sections:
       - title: NZBDav
         icon: favicon
         url: http://10.0.9.42:3000/
+      - title: AltMount
+        icon: favicon
+        url: http://10.0.9.42:8081/
       - title: qBittorrent
         icon: hl-qbittorrent
         url: http://10.0.9.42:8087/
