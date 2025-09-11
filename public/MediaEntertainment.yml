@@ -304,6 +304,9 @@ sections:
       collapsed: false
       hideForGuests: false
     items:
+      - title: IKnowWhatYouDownload
+        icon: favicon
+        url: https://iknowwhatyoudownload.com/
       - title: Xtorx
         icon: hl-xteve
         url: https://www.xtorx.com/
