@@ -161,6 +161,10 @@ sections:
         icon: hl-trakt
         url: >-
           https://trakt.tv/users/danjdurden
+      - title: TraktPPM
+        icon: hl-trakt
+        url: >-
+          https://sharkykh.github.io/tppm/
       - title: LastFM
         icon: favicon
         url: https://www.last.fm/user/DanDurden
