@@ -91,6 +91,17 @@ sections:
       - title: ZeroBin
         icon: favicon
         url: https://www.zerobin.net/
+  - name: URL Tools
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: wheregoes
+        icon: favicon
+        url: https://wheregoes.com/
   - name: File Sharing
     displayData:
       sortBy: default
