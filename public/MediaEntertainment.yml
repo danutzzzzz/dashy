@@ -68,6 +68,9 @@ sections:
       - title: Plex
         icon: hl-plex
         url: http://10.0.9.43:32400/web/
+      - title: GPU-Hot
+        icon: favicon
+        url: http://10.0.9.43:1312/
       - title: PlexDrive
         icon: hl-plexdrive
         url: https://github.com/plexdrive/plexdrive
