@@ -130,6 +130,9 @@ sections:
       - title: Readarr
         icon: hl-readarr
         url: http://10.0.9.42:8787
+      - title: Speakarr
+        icon: hl-readarr
+        url: http://10.0.9.42:8788
       - title: AudioBookShelf
         icon: favicon
         url: http://10.0.9.42:13378
