@@ -67,8 +67,9 @@ sections:
   - name: Productivity
     icon: fas fa-bookmark
     items:
-      - title: NextCloud
-        icon: hl-nextcloud
+      - title: BentoPDF
+        icon: hl-bentopdf
+        url: http://10.0.9.41:3005/
       - title: BitWarden
         icon: hl-bitwarden
       - title: Readarr
