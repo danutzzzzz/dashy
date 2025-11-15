@@ -204,6 +204,9 @@ sections:
       - title: ZorroxTV
         icon: favicon
         url: https://zoroto.live/
+      - title: Rule34
+        icon: favicon
+        url: https://rule34.xxx/
   - name: Indexer Agreegators
     icon: fas fa-house-signal
     displayData:
