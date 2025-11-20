@@ -1,0 +1,210 @@
+---
+# Page meta info, like heading, footer text and nav links
+pageInfo:
+  title: Personal
+  description: Welcome
+    
+pages:
+  - name: Main
+    path: 'conf.yml'
+  - name: Personal Investments
+    path: 'Finance-Investments.yml'
+  - name: Home
+    path: 'Home.yml'
+  - name: Infrastructure
+    path: 'Infrastructure.yml'
+  - name: Infrastructure Services
+    path: 'InfrastructureServices.yml'
+  - name: Media & Entertainment
+    path: 'MediaEntertainment.yml'
+
+# Optional app settings and configuration
+appConfig:
+  theme: nord-frost
+ 
+# Main content - An array of sections, each containing an array of items
+sections:
+  - name: Atack Maps
+    icon: fas fa-email
+    items:
+      - title: Radware
+        icon: favicon
+        url: https://livethreatmap.radware.com/
+      - title: Kaspersky Cyberthreat Map
+        icon: favicon
+        url: https://cybermap.kaspersky.com/
+      - title: Fortinet Threat Map
+        icon: favicon
+        url: https://fortiguard.fortinet.com/threat-map
+      - title: Check Point ThreatCloud Map
+        icon: favicon
+        url: https://threatmap.checkpoint.com/
+      - title: Norse Attack Map
+        icon: favicon
+        url: https://norse-corp.com/map/
+      - title: FireEye Threat Map
+        icon: favicon
+        url: https://www.fireeye.com/cyber-map/threat-map.html
+      - title: Bitdefender Threat Map
+        icon: favicon
+        url: https://threatmap.bitdefender.com/
+      - title: Arbor Networks
+        icon: favicon
+        url: https://www.digitalattackmap.com/
+      - title: Imperva Live Threat Map
+        icon: favicon
+        url: https://www.imperva.com/cyber-threat-attack-map/
+      - title: Other Maps
+        icon: favicon
+        url: https://norse-corp.com/map/
+  - name: Online Storage
+    icon: hl-storage
+    items:
+      - title: OneDrive
+        icon: favicon
+        url: >-
+          https://onedrive.live.com
+      - title: Google Drive
+        icon: favicon
+        url: >-
+          https://drive.google.com
+  - name: Tor Network
+    icon: hl-storage
+    items:
+      - title: Tor Browser
+        icon: hl-tor
+        url: >-
+          http://10.0.9.40:5800
+  - name: WebSearch
+    icon: hl-storage
+    items:
+      - title: Hatt
+        icon: hl-tor
+        url: >-
+          https://github.com/FrenchGithubUser/Hatt
+  - name: Productivity
+    icon: fas fa-bookmark
+    items:
+      - title: BentoPDF
+        icon: hl-bentopdf
+        url: http://10.0.9.41:3005/
+      - title: BitWarden
+        icon: hl-bitwarden
+      - title: Readarr
+        url: http://10.0.9.41:8787
+        icon: hl-readarr
+      - title: Wallabag
+        icon: hl-wallabag
+      - title: ArchiveBox
+        icon: hl-archivebox
+      - title: VS Code
+        icon: hl-code
+        url: https://vscode.dev/
+  - name: Emulators
+    icon: hl-storage
+    items:
+      - title: EmulatorJS
+        icon: favicon
+        url: >-
+          http://10.0.9.40:86/
+      - title: EmulatorJS Mgmt
+        icon: favicon
+        url: >-
+          http://10.0.9.40:3006/
+  - name: DIY
+    icon: hl-kamatera
+    items:
+      - title: iFixIT
+        icon: favicon
+        url: >-
+          https://www.ifixit.com/
+      - title: DIYNOT
+        icon: favicon
+        url: >-
+          https://www.diynot.com/diy/
+      - title: ultimatehandyman
+        icon: favicon
+        url: >-
+          https://www.ultimatehandyman.co.uk/forum1/index.php
+      - title: eSpares
+        icon: favicon
+        url: >-
+          https://www.espares.co.uk/
+  - name: GitHub
+    icon: fab fa-github-alt
+    items:
+      - title: Versus
+        description: Compare Anything
+        icon: favicon
+        url: >-
+          https://versus.com
+      - title: PriceSpy
+        description: Compare Prices for Tech
+        icon: favicon
+        url: >-
+          https://pricespy.co.uk/
+  - name: Gaming
+    icon: fas fa-house-signal
+    items:
+      - title: Pirated Games Mega Thread
+        icon: hl-home-assistant
+        url: https://rentry.org/pgames
+  - name: Home Control
+    icon: fas fa-house-signal
+    items:
+      - title: Home Assistant
+        icon: hl-home-assistant
+      - title: Node-RED
+        icon: hl-nodered
+      - title: OctoPrint
+        description: 3D Printer Control
+        icon: hl-octoprint
+      - title: Zigbee 2 Mqtt
+        icon: hl-zigbee2mqtt
+      - title: Alarm Pi
+        description: IOT telegram-controlled alarm clock
+        icon: hl-alarmpi
+      - title: Brew Pi
+        description: IOT brewery controller
+        icon: hl-brewpi
+  - name: Tech Learning & Development
+    icon: fas fa-house-signal
+    items:
+      - title: Learn Anything SE
+        icon: hl-home-assistant
+        url: https://learn-anything.xyz/
+      - title: Morioh
+        description: Social Network for Programmers and Developers
+        icon: hl-home-assistant
+        url: https://morioh.com/
+      - title: EDX
+        description: 
+        icon: hl-home-assistant
+        url: https://www.edx.org/
+  - name: Microsoft Learning & Development
+    icon: fas fa-house-signal
+    items:
+      - title: Enterprise Skills Initiative
+        icon: hl-home-assistant
+        url: https://esi.microsoft.com/
+      - title: Learn Profile
+        icon: hl-home-assistant
+        url: https://learn.microsoft.com/en-gb/users/dandurden
+      - title: Certification poster
+        icon: hl-home-assistant
+        url: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+      - title: Certifications
+        icon: hl-home-assistant
+        url: https://learn.microsoft.com/en-gb/credentials/
+  - name: Cisco Learning & Development
+    icon: fas fa-house-signal
+    items:
+      - title: Cisco Certifications
+        icon: hl-home-assistant
+        url: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html
+  - name: Multistream
+    icon: fas fa-house-signal
+    items:
+      - title: Cisco Certifications
+        icon: hl-home-assistant
+        url: https://multistre.am/

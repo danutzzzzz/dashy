@@ -121,8 +121,8 @@ sections:
       - title: Sonarr - Streams
         icon: hl-sonarr
         url: http://10.0.9.42:8991
-      - title: Fightarr - Streams
-        icon: hl-fightarr
+      - title: Sportarr - Streams
+        icon: hl-sportarr
         url: http://10.0.9.42:1867
       - title: Bazarr
         icon: hl-bazarr
