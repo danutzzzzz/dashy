@@ -13,6 +13,8 @@ pages:
     path: 'Finance-Investments.yml'
   - name: Home
     path: 'Home.yml'
+  - name: Cyber
+    path: 'Cyber.yml'
   - name: Infrastructure
     path: 'Infrastructure.yml'
   - name: Infrastructure Services
