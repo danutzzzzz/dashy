@@ -174,11 +174,11 @@ sections:
       - title: Bonob
         description: Sonos Gateway
         icon: favicon
-        url: http://10.0.9.41:4534/
+        url: http://10.0.9.42:4534/
       - title: Navidrome
         description: Web Music Streamer
         icon: hl-navidrome
-        url: http://10.0.9.41:4533/
+        url: http://10.0.9.42:4533/
       - title: Radio Playlists
         description: m3u-radio-music-playlists
         icon: hl-navidrome
