@@ -1,0 +1,43 @@
+---
+# Page meta info, like heading, footer text and nav links
+pageInfo:
+  title: VPS Services
+  description: Welcome
+  
+pages:
+  - name: Main
+    path: 'conf.yml'
+  - name: Personal
+    path: 'Personal.yml'
+  - name: Personal Investments
+    path: 'Finance-Investments.yml'
+  - name: Home
+    path: 'Home.yml'
+  - name: Infrastructure
+    path: 'Infrastructure.yml'
+  - name: Media & Entertainment
+    path: 'MediaEntertainment.yml'
+
+# Optional app settings and configuration
+appConfig:
+  theme: nord-frost
+ 
+# Main content - An array of sections, each containing an array of items
+sections:
+  - name: Media (PlexVPS)
+    icon: fas fa-tachometer-alt-fast
+    items:
+      - title: Emporia Energy
+        description: Plex MS
+        icon: hl-plex
+        url: https://plexvps.leinad.tech/web/
+      - title: BlueIris
+        description: Tautulli
+        icon: hl-tautulli
+        url: https://tautullivps.leinad.tech
+        description: DNS-Updater
+        icon: hl-tautulli
+        url: https://ddnsvps.leinad.tech/
+        description: Portainer
+        icon: hl-tautulli
+        url: https://portainervps.leinad.tech
