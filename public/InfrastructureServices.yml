@@ -34,7 +34,7 @@ sections:
       - title: BlueIris
         description: IP Cameras
         icon: hl-blue-iris
-        url: http://10.0.9.40:81/login.htm
+        url: http://10.0.9.41:81/login.htm
   - name: IRC Services
     icon: fas fa-network-wired
     displayData:
@@ -51,7 +51,7 @@ sections:
       - title: theLounge
         description: WebIRC
         icon: hl-thelounge
-        url: http://10.0.9.40:9001/
+        url: http://10.0.9.41:9001/
   - name: Reverse Proxy
     icon: fas fa-network-wired
     displayData:
@@ -121,10 +121,10 @@ sections:
         url: https://testfiltering.com/
       - title: WireGuard-UI
         icon: hl-wireguard
-        url: http://10.0.9.40:5000/
+        url: http://10.0.9.41:5000/
       - title: Pi-Alert
         icon: hl-pialert
-        url: http://10.0.9.40:20211/
+        url: http://10.0.9.41:20211/
         id: 1_1064_pialert        
       - title: MalTrail
         description: Malicious traffic detection system
@@ -147,11 +147,11 @@ sections:
         id: 6_1064_pialert
       - title: piAlert
         icon: hl-pi-alert
-        url: http://10.0.9.40:20211/pialert/
+        url: http://10.0.9.41:20211/pialert/
         id: 8_1064_pialert
       - title: DDNS Updater
         icon: hl-ddns-updater
-        url: http://10.0.9.40:8001/
+        url: http://10.0.9.41:8001/
         id: 9_1064_ddnsupdater
   - name: Systems
     icon: fas fa-monitor-heart-rate
@@ -170,7 +170,7 @@ sections:
         description: Data visualised on dashboards
         icon: hl-grafana
         id: 3_1739_grafana
-        url: http://10.0.9.40:3000/
+        url: http://10.0.9.41:3000/
       - title: Bonob
         description: Sonos Gateway
         icon: favicon
