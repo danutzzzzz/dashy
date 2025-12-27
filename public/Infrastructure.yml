@@ -372,34 +372,26 @@ sections:
     displayData:
       sortBy: default
       rows: 1
-      cols: 4
+      cols: 5
       collapsed: false
       hideForGuests: false
     items:
       - title: Docker 01
         description: Portainer
         icon: si-portainer
-        url: http://10.0.9.41:9000/
+        url: http://10.0.9.41:9000
       - title: Docker 02
         description: Portainer
         icon: si-portainer
-        url: http://10.0.9.42:9000/
+        url: http://10.0.9.42:9000
       - title: Docker 03
         description: Portainer
         icon: si-portainer
-        url: http://10.0.9.43:9000/
-      - title: Docker 01
+        url: http://10.0.9.43:9000
+      - title: Docker 04
         description: Dockmon
         icon: si-dockmon
-        url: http://10.0.9.41:9002/
-      - title: Docker 02
-        description: Dockmon
-        icon: si-dockmon
-        url: http://10.0.9.42:9002/
-      - title: Docker 03
-        description: Dockmon
-        icon: si-dockmon
-        url: http://10.0.9.43:9002
+        url: http://10.0.9.44:9000
   - name: Container Monitoring
     icon:
     displayData:
