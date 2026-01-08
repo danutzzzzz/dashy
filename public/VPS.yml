@@ -58,7 +58,7 @@ sections:
       - title: NZBDav
         description: NZBDav
         icon: favicon
-        url: https://nzvdavvps.leinad.tech
+        url: https://nzbdavvps.leinad.tech
       - title: DNS-Updater
         description: DNS-Updater
         icon: hl-ddnsupdater
