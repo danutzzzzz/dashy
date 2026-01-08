@@ -35,11 +35,39 @@ sections:
         description: Tautulli
         icon: hl-tautulli
         url: https://tautullivps.leinad.tech
+      - title: Tracearr
+        description: Tracearr
+        icon: favicon
+        url: https://tracearrvps.leinad.tech
+      - title: NZBDav
+        description: NZBDav
+        icon: favicon
+        url: https://nzvdavvps.leinad.tech
       - title: DNS-Updater
         description: DNS-Updater
-        icon: hl-tautulli
+        icon: hl-ddnsupdater
         url: https://ddnsvps.leinad.tech/
       - title: Portainer
-        description: Portainer
+        description: hl-portainer
         icon: hl-tautulli
         url: https://portainervps.leinad.tech
+      - title: Hunrarr
+        description: hl-portainer
+        icon: favicon
+        url: https://huntarrvps.leinad.tech
+      - title: Radarr
+        description: Radarr
+        icon: hl-radarr
+        url: https://radarrvps.leinad.tech
+      - title: Radarr 4K
+        description: Radarr
+        icon: hl-radarr
+        url: https://radarr4kvps.leinad.tech
+      - title: Sonarr
+        description: Sonarr
+        icon: hl-sonarr
+        url: https://sonarrvps.leinad.tech
+      - title: Sonarr 4K
+        description: Sonarr
+        icon: hl-sonarr
+        url: https://sonarr4kvps.leinad.tech
