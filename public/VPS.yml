@@ -27,17 +27,19 @@ sections:
   - name: Media (PlexVPS)
     icon: fas fa-tachometer-alt-fast
     items:
-      - title: Emporia Energy
+      - title: Plex MS
         description: Plex MS
         icon: hl-plex
         url: https://plexvps.leinad.tech/web/
-      - title: BlueIris
+      - title: Tautulli
         description: Tautulli
         icon: hl-tautulli
         url: https://tautullivps.leinad.tech
+      - title: DNS-Updater
         description: DNS-Updater
         icon: hl-tautulli
         url: https://ddnsvps.leinad.tech/
+      - title: Portainer
         description: Portainer
         icon: hl-tautulli
         url: https://portainervps.leinad.tech
