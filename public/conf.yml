@@ -22,7 +22,7 @@ pages:
   - name: Media & Entertainment
     path: 'MediaEntertainment.yml'
   - name: VPS
-    path: 'VPS.yml'
+    path: 'vps.yml'
     
 # Optional app settings and configuration
 appConfig:
