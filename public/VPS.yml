@@ -24,6 +24,22 @@ appConfig:
  
 # Main content - An array of sections, each containing an array of items
 sections:
+  - name: Offers
+    icon: fas fa-tachometer-alt-fast
+    items:
+      - title: LowEndTalk
+        description: LowEndTalk
+        icon: favicon
+        url: https://lowendtalk.com/categories/offers
+        
+  - name: VPS Providors
+    icon: fas fa-tachometer-alt-fast
+    items:
+      - title: HostBrr
+        description: HostBrr
+        icon: favicon
+        url: https://my.hostbrr.com/
+
   - name: Media (PlexVPS)
     icon: fas fa-tachometer-alt-fast
     items:
@@ -71,3 +87,11 @@ sections:
         description: Sonarr
         icon: hl-sonarr
         url: https://sonarr4kvps.leinad.tech
+        
+  - name: Plex & IPTV Providors
+    icon: fas fa-tachometer-alt-fast
+    items:
+      - title: Notflix
+        description: Notflix
+        icon: favicon
+        url: https://notflix.mov/
