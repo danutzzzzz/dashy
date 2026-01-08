@@ -21,6 +21,8 @@ pages:
     path: 'InfrastructureServices.yml'
   - name: Media & Entertainment
     path: 'MediaEntertainment.yml'
+  - name: VPS
+    path: 'VPS.yml'
     
 # Optional app settings and configuration
 appConfig:
