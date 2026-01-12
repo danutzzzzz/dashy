@@ -63,8 +63,8 @@ sections:
         description: DNS-Updater
         icon: hl-ddnsupdater
         url: https://ddnsvps.leinad.tech/
-      - title: Hunrarr
-        description: hl-portainer
+      - title: Huntarr
+        description: favicon
         icon: favicon
         url: https://huntarrvps.leinad.tech
       - title: Radarr
@@ -90,6 +90,14 @@ sections:
       - title: Portainer
         description: hl-portainer
         icon: hl-tautulli
+        url: https://portainervps.leinad.tech
+      - title: Authelia
+        description: Authelia
+        icon: hl-authelia
+        url: https://autheliavps.leinad.tech
+      - title: Portainer
+        description: hl-portainer
+        icon: hl-portainer
         url: https://portainervps.leinad.tech
         
   - name: Plex & IPTV Providors
