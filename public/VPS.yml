@@ -57,15 +57,15 @@ sections:
         url: https://tracearrvps.leinad.tech
       - title: NZBDav
         description: NZBDav
-        icon: favicon
+        icon: hl-nzbdav
         url: https://nzbdavvps.leinad.tech
       - title: DNS-Updater
         description: DNS-Updater
         icon: hl-ddns-updater
         url: https://ddnsvps.leinad.tech/
       - title: Huntarr
-        description: favicon
-        icon: favicon
+        description: Huntarr
+        icon: hl-huntarr
         url: https://huntarrvps.leinad.tech
       - title: Radarr
         description: Radarr
