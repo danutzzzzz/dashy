@@ -53,7 +53,7 @@ sections:
         url: https://tautullivps.leinad.tech
       - title: Tracearr
         description: Tracearr
-        icon: favicon
+        icon: hl-tracearr
         url: https://tracearrvps.leinad.tech
       - title: NZBDav
         description: NZBDav
@@ -61,7 +61,7 @@ sections:
         url: https://nzbdavvps.leinad.tech
       - title: DNS-Updater
         description: DNS-Updater
-        icon: hl-ddnsupdater
+        icon: hl-ddns-updater
         url: https://ddnsvps.leinad.tech/
       - title: Huntarr
         description: favicon
@@ -87,10 +87,6 @@ sections:
         description: Sportarr
         icon: hl-sportarr
         url: https://sportarrvps.leinad.tech
-      - title: Portainer
-        description: hl-portainer
-        icon: hl-tautulli
-        url: https://portainervps.leinad.tech
       - title: Authelia
         description: Authelia
         icon: hl-authelia
