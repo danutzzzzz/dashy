@@ -64,8 +64,8 @@ sections:
         icon: hl-tor
         url: >-
           https://github.com/FrenchGithubUser/Hatt
-      - title: BentoPDFCobalt Tools
-        icon: hl-bentopdf
+      - title: Cobalt Media Downloader
+        icon: favicon
         url: https://cobalt.tools/
   - name: Productivity
     icon: fas fa-bookmark
