@@ -77,6 +77,10 @@ sections:
         description: Dynamic DNS Updater
         icon: hl-ddns-updater
         url: https://ddns-updater.leinad.tech:8443 
+      - title: Domain Locker
+        description: Domain Monitor
+        icon: favicon
+        url: http://10.0.9.44:3000/
       - title: The Lougne
         description: IRC Web Client
         icon: hl-thelounge
